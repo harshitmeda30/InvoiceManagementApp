@@ -1,0 +1,10 @@
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\bin\Debug\netstandard2.1\InvoiceManagementApp.Application.deps.json
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\bin\Debug\netstandard2.1\InvoiceManagementApp.Application.dll
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\bin\Debug\netstandard2.1\InvoiceManagementApp.Application.pdb
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.csprojAssemblyReference.cache
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.AssemblyInfoInputs.cache
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.AssemblyInfo.cs
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.dll
+C:\Users\mhars\source\repos\InvoiceManagementApp\InvoiceManagementApp.Application\obj\Debug\netstandard2.1\InvoiceManagementApp.Application.pdb
